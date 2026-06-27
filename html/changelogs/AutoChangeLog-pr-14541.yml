@@ -1,5 +1,0 @@
-author: WhiskeyMarten
-delete-after: true
-changes:
-  - tweak: Removed the minpop requirement to play the Prisoner role. It no longer
-      requires 9 ready-ups at round start to be available.

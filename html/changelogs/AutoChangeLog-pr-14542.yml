@@ -1,6 +1,0 @@
-author: Nildo1
-delete-after: true
-changes:
-  - balance: Lowers the amount of discovery points the notes given by experimental
-      dissection give for aliens.
-  - bugfix: Fixes experimental dissection for Charlie Station.
