@@ -1,0 +1,11 @@
+author: Isaacnml
+delete-after: true
+changes:
+  - bugfix: Some RnD nodes aren't fully hidden forever, now they can be researched
+      if it's prerequisites are also researched
+  - bugfix: Nanite Chambers will now give the research to the server they're linked
+      to
+  - rscadd: You can link nanite chambers using a multitool with a server buffer on
+      it, it'll change where nanite research is given to
+  - rscadd: You can examine nanite chambers and it'll tell you what server it's linked
+      to and a hint how you can change that
