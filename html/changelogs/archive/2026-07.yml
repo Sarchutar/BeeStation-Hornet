@@ -2,3 +2,7 @@
   mrmanlikesbt:
   - bugfix: Anomalies no longer slow the game down to a crawl when detonating in space.
   - code_imp: Anomaly code has been cleaned up
+2026-07-03:
+  MatiAvanti:
+  - admin: The banning panel now blocks banning other admin unless "Applies to admins"
+      is ticked.

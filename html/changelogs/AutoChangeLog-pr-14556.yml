@@ -1,5 +1,0 @@
-author: MatiAvanti
-delete-after: true
-changes:
-  - admin: The banning panel now blocks banning other admin unless "Applies to admins"
-      is ticked.
