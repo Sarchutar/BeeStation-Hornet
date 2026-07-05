@@ -1,0 +1,12 @@
+author: mrmanlikesbt, nicbn, Fikou, vincentiusvin, JohnFulpWillard, Momo8289, Jacquerel,
+  timothymtorres
+delete-after: true
+changes:
+  - balance: Cryo tanks are now slightly more efficient and end up giving 0.5 reagents
+      per second to their occupant instead of the previous 0.4 (They only consume
+      0.02 reagents per second from their beaker, yes this breaks the laws of physics).
+  - rscadd: Added sound effects to cryo tanks.
+  - bugfix: Fixed a cable & APC harddel from power monitors
+  - bugfix: Fixed some bad logic with the announcement system
+  - code_imp: Removed some unused machinery related vars, defines, and procs
+  - code_imp: Cleaned up cryo tank code
