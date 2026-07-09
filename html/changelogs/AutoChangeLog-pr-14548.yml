@@ -1,0 +1,6 @@
+author: Isaacnml
+delete-after: true
+changes:
+  - bugfix: Placed a camera in metastation xenobiology
+  - bugfix: Removed a wire on a wall in metastation security
+  - bugfix: shuffled things around in metastation's science airlock
