@@ -1,0 +1,5 @@
+author: mrmanlikesbt
+delete-after: true
+changes:
+  - bugfix: Fixed a runtime when an AAS announcement was made in some situations
+  - bugfix: Fixed brains giving people null traits
